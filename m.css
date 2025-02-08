@@ -1,0 +1,18 @@
+body{
+    
+    font-family:  Tahoma, sans-serif;
+    background-color:rgb(223, 146, 52);
+    font-weight: 600;
+    line-height: 1em;
+}
+
+
+
+
+#yes {
+    color: rgb(118, 165, 42);
+}
+.caption{
+    color: aqua; font: size 100px;;
+}
+
